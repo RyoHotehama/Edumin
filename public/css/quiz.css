@@ -1,0 +1,101 @@
+.wrap, .product_wrap {
+  padding: 150px 30%;
+}
+
+textarea {
+  resize: none;
+  width:100%;
+  height:300px;
+}
+
+dl dt {
+  font-size: 18px;
+}
+
+.question_wrap {
+  margin-bottom: 3%;
+}
+
+.choice_box {
+  display: grid;
+	grid-template-columns: repeat(2, 3fr);
+  margin-bottom: 3%;
+}
+
+.choice_box dd {
+  width: 100%;
+}
+
+dd input {
+  width: 60%;
+  height: 25px;
+}
+
+.select {
+  text-align: center;
+  margin-top: 3%;
+}
+
+.select button {
+  font-size: 18px;
+}
+
+span {
+  color: red;
+}
+
+.right_wrapper {
+  font-size: 25px;
+  margin-bottom: 15%;
+}
+
+.top {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.top a {
+  color: blue;
+}
+
+.quiz_wrap {
+  text-align: center;
+  margin-bottom: 3%;
+}
+
+.quiz_wrap button {
+  font-size: 18px;
+}
+
+.wrap form, .main_wrap form {
+  border: 1px solid black;
+  padding: 3%;
+  margin-bottom: 5%;
+}
+
+.quiz_box dt {
+  text-align: right;
+}
+
+.compleate {
+  padding-top: 150px;
+}
+
+.compleate h1 {
+  text-align: center;
+  font-size: 32px;
+}
+
+.index {
+  text-align: center;
+}
+
+.index a {
+  color: blue;
+}
+
+.explanation {
+  border-bottom: 1px solid black;
+}
+
+

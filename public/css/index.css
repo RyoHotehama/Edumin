@@ -1,0 +1,54 @@
+.question_list table {
+  width: 100%;
+}
+
+tr th, tr td {
+  text-align: center;
+}
+
+td a {
+  color: blue;
+  text-decoration: underline;
+}
+
+.top {
+  background-image: url("/img/top.png");
+  background-size: cover;
+  height: 600px;
+}
+
+.top_logo {
+  padding-top: 300px;
+  padding-left: 50px;
+}
+
+.top_logo img {
+  display: inherit;
+}
+
+.btn-good{
+    display: inline-block;
+    padding: 0 8px;
+    cursor: pointer;
+}
+
+.btn-good:hover{
+    color: #000000;
+}
+
+.active{
+    color: #000000;
+}
+
+.btn-good .active{
+    color: #000000;
+}
+
+.create {
+  color: gray;
+  font-size: 10px;
+}
+
+.paging a {
+  margin-right: 1%;
+}

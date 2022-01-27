@@ -1,0 +1,89 @@
+.home_wrapper {
+  padding: 150px 30% 30px 30%;
+}
+
+.profile_wrap {
+  border: 2px solid gray;
+  box-shadow: 1px 1px;
+}
+
+.title {
+  padding : 3% 0;
+  border-bottom: 1px solid #CCCCCC;
+}
+
+.title h2 {
+  text-align: center;
+  font-size: 28px;
+}
+
+.box, .profile_box {
+   display: flex;
+   margin-bottom: 5%;
+ }
+
+.box dt, .box dd, .profile_box dt, .profile_box dd {
+  font-size: 18px;
+}
+
+.home_wrapper dl {
+  padding: 3%
+}
+
+.box dd {
+  margin: 0 auto;
+  border-bottom: 1px solid black;
+}
+
+.box {
+  padding: 3%;
+}
+
+.logout {
+  text-align: center;
+}
+
+button {
+  font-size: 18px;
+  margin-right: 3%;
+}
+
+.save_wrap {
+  text-align: right;
+}
+
+.profile_box dd {
+  margin: 0 auto;
+}
+
+.profile_box dt {
+  width: 40%;
+}
+
+dd input {
+  height: 30px;
+}
+
+.save_wrap {
+  margin-top: 5%;
+}
+
+.choice_wrap {
+  display: flex;
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  }
+
+.choice {
+  width: 30%;
+  margin: 0 auto;
+}
+
+p {
+  color: red;
+}
+
+.title p  {
+  text-align: center;
+}
