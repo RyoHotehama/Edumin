@@ -6,15 +6,15 @@ Edumin
 * 普段の授業や課題に悩んでいる中高生のニーズに答えます。
 
 ## Eduminの機能
-(https://user-images.githubusercontent.com/98451802/151657653-4937e057-34c0-4f66-96f7-425448b8208f.png)
+![This is an image](https://user-images.githubusercontent.com/98451802/151657653-4937e057-34c0-4f66-96f7-425448b8208f.png)
 
 ## テスト用アカウント
 
-管理者
+* 管理者
 
-メールアドレス: test@test
+* メールアドレス: test@test
 
-パスワード: testuser
+* パスワード: testuser
 
 ## 環境
 MAMP/MySQL/PHP
