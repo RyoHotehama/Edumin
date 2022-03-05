@@ -3,6 +3,7 @@ require_once(ROOT_PATH .'/database.php');
 
 class Db
 {
+	
     protected $dbh;
 
     public function __construct($dbh = null)
